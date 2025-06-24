@@ -16,4 +16,4 @@ This Weather Dashboard is a responsive web application built using React JS and 
 
 *OUTPUT*
 
-![Image](https://github.com/user-attachments/assets/e9754cdf-1db4-46a9-9c83-5bac19cfee4f)
+![Image](https://github.com/user-attachments/assets/084f7d8d-fcb1-41b2-915b-29a5de7a2e5c)
